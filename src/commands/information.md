@@ -20,6 +20,7 @@
 - **`xp`**
 - **`invite`**
 - **`rep`**
+- **`econ`**
 
 
 ## Bot Information
