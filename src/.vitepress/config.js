@@ -27,9 +27,9 @@ export default {
             copyright: `Copyright © 2022 - Lightning`
         },
         algolia: {
-            appId: '',
-            apiKey: '',
-            indexName: ''
+            appId: '5YO0XLSPLB',
+            apiKey: '2d5b2ba769760ba8db1f048693dcd6e5',
+            indexName: 'vitepress'
         },
         nav: [
             {
