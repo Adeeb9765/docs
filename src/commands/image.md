@@ -1,6 +1,10 @@
 
 # Image Commands
 
+::: info How do I use the images?
+You can upload the images via **`URL`**, **`ATTACHMENT`** or using someone's **Profile Picture**, just **`@mention`** them.
+:::
+
 ## Filters
 
 * **Description**: add filter to the provided image
@@ -16,7 +20,7 @@
 ## Generators
 
 * **Description**: image meme generator
-* **Command Usage**: **`!<generator`**
+* **Command Usage**: **`!<generator>`**
 * **Slash Usage**: **`/generator <name>`**
 * **Cooldown**: **5 seconds**
 * **Available Generators**:
@@ -29,6 +33,26 @@
 | rip    | shit          | stonk        | tatoo    |
 | thomas | trash         | wanted       | wasted   |
 
+## Overlay
+
+Add a overlay (**Filter**) to selected image.
+
+* **Description**: image meme generator
+* **Command Usage**: **`!overlay <type> <url>`**
+* **Slash Usage**: **`/overlay <type> <user> <link>`**
+* **Cooldown**: **5 seconds**
+* **Available Filters**:
+
+
+| Options         |
+| --------------- |
+| approved        |    
+| brazzers        |
+| gay             |
+| halloween       |
+| rejected        |
+| thuglife        |
+| to-be-continued |
 
 
 ::: info
