@@ -45,4 +45,12 @@ export const teamMembers: CoreTeam[] = [
       { icon: 'discord', link: 'https://discord.com/users/250807464432369665' }
     ]
   },
+  {
+    avatar: 'https://cdn.discordapp.com/avatars/885949780306575371/77d475119654a7c582ede7f9a7c98aa0.png?size=2048',
+    name: 'Skäl dé Morder',
+    title: "Graphics",
+    links: [
+      { icon: 'discord', link: 'https://discord.com/users/885949780306575371' }
+    ]
+  },
 ]
