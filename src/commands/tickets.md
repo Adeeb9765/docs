@@ -10,7 +10,7 @@ Some commands need `ManageGuild` permission.
 - **!ticket log `<#channel>`**: setup log channel for tickets
 - **!ticket limit `<amount>`**: set maximum number of concurrent open tickets
 - **!ticket closeall**: close all open tickets
--** !ticket singleticket `<on/off`**: members can only have 1 ticket at once
+- **!ticket singleticket `<on/off`**: members can only have 1 ticket at once
 
 ## Ticket Channel Commands
 
