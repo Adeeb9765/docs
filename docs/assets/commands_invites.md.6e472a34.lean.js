@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,a as r}from"./app.7be1093f.js";const l=JSON.parse('{"title":"Invites","description":"","frontmatter":{},"headers":[],"relativePath":"commands/invites.md","lastUpdated":1671039555000}'),s={name:"commands/invites.md"},n=r("",2),i=[n];function o(a,c,g,v,m,_){return d(),e("div",null,i)}const p=t(s,[["render",o]]);export{l as __pageData,p as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as r,a as n}from"./app.7be1093f.js";const b=JSON.parse('{"title":"Economy","description":"","frontmatter":{},"headers":[],"relativePath":"commands/economy.md","lastUpdated":1671039555000}'),d={name:"commands/economy.md"},e=n("",3),s=[e];function a(c,g,i,m,h,l){return r(),o("div",null,s)}const y=t(d,[["render",a]]);export{b as __pageData,y as default};

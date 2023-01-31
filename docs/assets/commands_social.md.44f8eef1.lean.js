@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as o}from"./app.7be1093f.js";const g=JSON.parse('{"title":"Social","description":"","frontmatter":{},"headers":[],"relativePath":"commands/social.md","lastUpdated":1671039555000}'),r={name:"commands/social.md"},s=o("",2),d=[s];function n(c,i,_,l,h,p){return a(),e("div",null,d)}const u=t(r,[["render",n]]);export{g as __pageData,u as default};

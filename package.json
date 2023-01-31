@@ -2,8 +2,9 @@
   "name": "lightning-docs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "vitepress dev src",
   "scripts": {
+    "start": "vitepress serve src",
     "docs:dev": "vitepress dev src",
     "docs:build": "vitepress build src",
     "docs:serve": "vitepress serve src"
